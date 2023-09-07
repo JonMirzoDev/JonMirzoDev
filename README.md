@@ -8,12 +8,10 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 - **Open-Source Contributions**: Ready to collaborate on open-source initiatives.
 
 ## 💞️ Open to Collaborate On
-- Cutting-edge web development projects.
-- Impactful open-source projects.
-- Collaborative and creative teams.
+- Cutting-edge web development projects, Impactful open-source projects, Collaborative and creative teams.
 
 ## 📫 Contact
-- **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev)
+<!-- - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev) -->
 - **Email**: islomjon.swe@gmail.com
 - **Portfolio**: [Check Here](https://islomjon-swe.vercel.app)
 
