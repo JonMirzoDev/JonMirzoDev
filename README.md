@@ -1,40 +1,21 @@
-<!-- - 👋 Hi, I’m @JonMirzoDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-# Hello, I'm @JonMirzoDev 👋
+# Hi, I'm @JonMirzoDev 👋
 
-I'm a seasoned Frontend Developer with over 2 years of professional experience in crafting innovative and responsive web designs. I specialize in turning concepts into high-quality websites that are optimized for performance and user experience.
+Frontend Developer with 2+ years of expertise, adept at crafting high-performance, user-centric websites and applications.
 
 ## 👀 Interests
-- **Web Development**: Passionate about building seamless user interfaces and web experiences.
-- **Emerging Technologies**: Always keen to explore new tools and technologies to stay at the forefront of the industry.
-- **Open-Source Contributions**: Eager to collaborate and contribute to open-source projects.
+- **Web Development**: Devoted to creating seamless user experiences.
+- **Emerging Technologies**: Constantly exploring new industry tools and technologies.
+- **Open-Source Contributions**: Ready to collaborate on open-source initiatives.
 
-<!-- ## 🌱 Currently Learning
-- Advancing my skills in modern frontend frameworks like React and Vue.js.
-- Exploring the integration of AI and Machine Learning into web applications.
-- Enhancing UX design skills to create more user-friendly and visually appealing websites. -->
+## 💞️ Open to Collaborate On
+- Cutting-edge web development projects.
+- Impactful open-source projects.
+- Collaborative and creative teams.
 
-## 💞️ Looking to Collaborate On
-- Innovative web development projects.
-- Open-source projects that aim to make a difference.
-- Teams that value collaboration, creativity, and learning.
-
-## 📫 How to Reach Me
+## 📫 Contact
 - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev)
-<!-- - **LinkedIn**: [Insert Your LinkedIn Profile Here] -->
 - **Email**: islomjon.swe@gmail.com
-- **Portfolio**: [https://islomjon-swe.vercel.app]
+- **Portfolio**: [Check Here](https://islomjon-swe.vercel.app)
 
-Feel free to reach out to me for collaborations, or just to chat about the latest trends in web development. Looking forward to connecting with you!
+Reach out for collaborations or discussions on the latest in web dev. Excited to connect!
 
----
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
-
-<!---
-JonMirzoDev/JonMirzoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
