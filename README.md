@@ -50,12 +50,10 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="JonMirzoDev" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="IslomJonMirzakbarov" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=c#" alt="JonMirzoDev" />
 </p>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JonMirzoDev&count_private=true&show_icons=true&locale=en" alt="JonMirzoDev" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
 </p>
 
 <h3 align="left">📫 Contact</h3>
