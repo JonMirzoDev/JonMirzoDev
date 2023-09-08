@@ -12,7 +12,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 ## 📫 Contact
 <!-- - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev) -->
-- **Email**: islomjon.swe@gmail.com
+<!-- - **Email**: islomjon.swe@gmail.com
 - **Portfolio**: [Check Here](https://islomjon-swe.vercel.app) -->
 
 
@@ -50,12 +50,15 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliml92&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="aliml92" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="JonMirzoDev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,c#" alt="IslomJonMirzakbarov" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliml92&count_private=true&show_icons=true&locale=en" alt="aliml92" />
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JonMirzoDev&count_private=true&show_icons=true&locale=en" alt="JonMirzoDev" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IslomJonMirzakbarov&count_private=true&show_icons=true&locale=en" alt="IslomJonMirzakbarov" />
 </p>
 
-<h3 align="left">Let's Connect:</h3>
+<h3 align="left">📫 Contact</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alisher-muzaffarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisher-muzaffarov" height="30" width="40" /></a>
+  - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev)    **Email**: islomjon.swe@gmail.com
 </p>
