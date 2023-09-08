@@ -17,7 +17,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 
 <h1 align="center">Hey, I'm @JonMirzoDev 👋</h1>
-<h3 align="center">Frontend Developer with 2+ years of expertise, adept at crafting high-performance, user-centric websites and applications.</h3>
+<h3 align="center">Expert Frontend Developer specializing in high-performance, user-centric web apps.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
