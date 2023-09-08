@@ -17,9 +17,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 
 <h1 align="center">Hey, I'm @JonMirzoDev 👋</h1>
-<h3 align="center">Skillful frontend engineer dedicated to crafting responsive and user-friendly interfaces</h3>
-
-🌱 Currently diving into **ReactJS**
+<h3 align="center">Frontend Developer with 2+ years of expertise, adept at crafting high-performance, user-centric websites and applications.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,5 +56,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 <h3 align="left">📫 Contact</h3>
 <p align="left">
-  - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev)    **Email**: islomjon.swe@gmail.com
+  <span><strong>GitHub:</strong> <a href="https://github.com/JonMirzoDev">JonMirzoDev</a></span> &nbsp; &nbsp;
+  <span><strong>Email:</strong> <a href="mailto:islomjon.swe@gmail.com">islomjon.swe@gmail.com</a></span>
 </p>
+
