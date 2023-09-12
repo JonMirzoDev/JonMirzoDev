@@ -89,6 +89,6 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 <h3 align="left">📫 Contact</h3>
 <p align="left">
-  <span><strong>Email:</strong> <a href="mailto:islomjon.swe@gmail.com">islomjon.swe@gmail.com</a></span> &nbsp; &nbsp;
+  <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span> &nbsp; &nbsp;
   <span><strong>Portfolio:</strong> <a href="https://islomjon-swe.vercel.app">Check Here</a></span>
 </p>
