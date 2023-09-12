@@ -84,7 +84,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=c#" alt="JonMirzoDev" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JonMirzoDev&count_private=true&show_icons=true&locale=en" alt="JonMirzoDev" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&hide=issues" alt="JonMirzoDev" />
 </p>
 
 <h3 align="left">📫 Contact</h3>
