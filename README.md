@@ -12,8 +12,7 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 
 ## 📫 Contact
 <!-- - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev) -->
-<!-- - **Email**: islomjon.swe@gmail.com
-- **Portfolio**: [Check Here](https://islomjon-swe.vercel.app) -->
+<!-- - **Email**: islomjon.swe@gmail.com -->
 
 
 <h1 align="center">Hey, I'm @JonMirzoDev 👋</h1>
