@@ -1,20 +1,3 @@
-<!-- # Hi, I'm @JonMirzoDev 👋
-
-Frontend Developer with 2+ years of expertise, adept at crafting high-performance, user-centric websites and applications.
-
-## 👀 Interests
-- **Web Development**: Devoted to creating seamless user experiences.
-- **Emerging Technologies**: Constantly exploring new industry tools and technologies.
-- **Open-Source Contributions**: Ready to collaborate on open-source initiatives.
-
-## 💞️ Open to Collaborate On
-- Cutting-edge web development projects, Impactful open-source projects, Collaborative and creative teams.
-
-## 📫 Contact
-<!-- - **GitHub**: [JonMirzoDev](https://github.com/JonMirzoDev) -->
-<!-- - **Email**: islomjon.swe@gmail.com -->
-
-
 <h1 align="center">Hey, I'm @JonMirzoDev 👋</h1>
 <h3 align="center">Expert Frontend Developer specializing in high-performance, user-centric web apps.</h3>
 
@@ -89,5 +72,5 @@ Frontend Developer with 2+ years of expertise, adept at crafting high-performanc
 <h3 align="left">📫 Contact</h3>
 <p align="left">
   <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span> &nbsp; &nbsp;
-  <span><strong>Portfolio:</strong> <a href="https://islomjon-swe.vercel.app">Check Here</a></span>
+<!--   <span><strong>Portfolio:</strong> <a href="https://islomjon-swe.vercel.app">Check Here</a></span> -->
 </p>
