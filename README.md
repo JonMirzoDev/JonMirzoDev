@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm @JonMirzoDev 👋</h1>
+<!-- <h1 align="center">Hey, I'm JonMirzoDev 👋</h1> -->
 <h3 align="center">Developer specializing in high-performance, user-centric web apps.</h3>
 <!-- Expert Frontend  -->
 <h3 align="left">Languages and Tools:</h3>
@@ -50,23 +50,13 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
-</p>
-
-<h3 align="left">📫 Contact</h3>
-<p align="left">
-  <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span> &nbsp; &nbsp;
-</p>
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; flex-direction: column;">
   <div style="flex: 1; min-width: 250px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact" alt="JonMirzoDev" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <h3 align="left">📫 Contact</h3>
-    <p align="left">
-      <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span>
+    <p align="left" style="margin-top: 15px;">
+      <span><strong>📫 Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span>
     </p>
   </div>
 </div>
