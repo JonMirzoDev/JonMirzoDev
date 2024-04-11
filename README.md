@@ -49,11 +49,11 @@
   </a>
 </p>
 
-<div>
+<div style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
 </div>
 
-<div style="margin-top: 15px;">
+<div style="margin-top: 25px;">
   <p align="left">
     <strong>📫 Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a>
   </p>
