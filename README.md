@@ -53,8 +53,8 @@
   <div style="min-width: 250px;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
   </div>
-  <div style="min-width: 250px;">
-    <p align="left" style="margin-top: 15px;">
+  <div style="min-width: 250px; margin-top: 15px;">
+    <p align="left">
       <span><strong>📫 Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span>
     </p>
   </div>
