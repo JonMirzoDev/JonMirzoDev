@@ -49,9 +49,9 @@
   </a>
 </p>
 
-<div style="margin-top: 25px;">
+<!-- <div style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
-</div>
+</div> -->
 
 <div style="margin-top: 25px;">
   <p align="left">
