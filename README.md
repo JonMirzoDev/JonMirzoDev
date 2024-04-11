@@ -58,3 +58,15 @@
 <p align="left">
   <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span> &nbsp; &nbsp;
 </p>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1; min-width: 250px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact" alt="JonMirzoDev" />
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <h3 align="left">📫 Contact</h3>
+    <p align="left">
+      <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span>
+    </p>
+  </div>
+</div>
