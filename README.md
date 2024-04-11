@@ -50,8 +50,10 @@
 </p>
 
 <div style="display: flex; align-items: flex-start; flex-direction: column;">
-  <div style="min-width: 250px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
+  <div  style="min-width: 100%;">
+    <div style="min-width: 250px;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
+    </div>
   </div>
   <div style="min-width: 250px; margin-top: 15px;">
     <p align="left">
