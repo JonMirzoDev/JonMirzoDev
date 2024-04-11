@@ -53,12 +53,8 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&layout=compact&hide=html,css,scss,shell,powershell,c#" alt="JonMirzoDev" />
 </p>
-<!-- <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JonMirzoDev&count_private=true&show_icons=true&locale=en&hide=issues" alt="JonMirzoDev" />
-</p> -->
 
 <h3 align="left">📫 Contact</h3>
 <p align="left">
   <span><strong>Contact:</strong> <a href="mailto:islomjon.swe@gmail.com">Get in Touch</a></span> &nbsp; &nbsp;
-<!--   <span><strong>Portfolio:</strong> <a href="https://islomjon-swe.vercel.app">Check Here</a></span> -->
 </p>
