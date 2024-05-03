@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hey, I'm JonMirzoDev 👋</h1> -->
-<h3 align="center">Developer specializing in high-performance, user-centric web apps.</h3>
+<h3 align="center">Developer specializing in high-performance, user-centric apps.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
